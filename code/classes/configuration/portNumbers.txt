@@ -1,0 +1,5 @@
+databaseacontroller=8094
+messagecontroller=8095
+databasebcontroller=8096
+databaseccontroller=8097
+printer=8098

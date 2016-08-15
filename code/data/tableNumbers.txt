@@ -1,0 +1,8 @@
+#TableNumber,NumberOfSeats,Booth(b)/Table(t)
+1,4,t
+2,4,t
+3,4,t
+4,6,b
+5,6,b
+6,2,t
+7,2,t

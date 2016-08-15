@@ -1,0 +1,61 @@
+#TypeOfDish,NameOfDish,Price
+appetizer,Buffalo Wings,7.99
+appetizer,Bread Sticks,4.99
+appetizer,Spiced Olives,5.99
+appetizer,Chips and Guacamole,7.99
+appetizer,Chicken Soup,2.99
+appetizer,Spring Rolls ,4.99
+appetizer,Prawn Chips ,5.99
+appetizer,Mixed Apps  ,7.99
+appetizer,Sample Platter,7.50
+appetizer,Mozzarella sticks,4.99
+appetizer,French Fries,5.99
+appetizer,Pizza Fries,7.99
+appetizer,Breaded Mushrooms,2.99
+appetizer,Onion Rings,4.99
+appetizer,Shrimp Basket,5.99
+appetizer,Garlic Bread,7.99
+entree,pasta,12.99
+entree,steak,18.99
+entree,Eggplant Parmesan,11.99
+entree,Chicken salad,12.99
+entree,Chicken Alfredo,12.99
+entree,Tossed Salad,18.99
+entree,Fried Chicken Salad ,11.99
+entree,Tuna Salad,12.99
+entree,Stuffed Shells,12.99
+entree,Baked Lasagna,18.99
+entree,Italian Trio ,11.99
+entree,Baked Ziti ,12.99
+entree,Sandwich,12.99
+entree,Bean Burrito,18.99
+entree,Cheese Quesedilla ,11.99
+entree,Carnitas ,12.99
+dessert,cheesecake,8.99
+dessert,creme brulee,10.99
+dessert,Tiramasu,13.99
+dessert,Ice Cream,2.99
+dessert,Pineapple Cheesecake,8.99
+dessert,Creme Caramel ,10.99
+dessert,Peanut Butter Pie,13.99
+dessert,Lemon Marangue Pie ,2.99
+dessert,Carrot Cake,8.99
+dessert,Red Velvet Cake ,10.99
+dessert,Bread Pudding,13.99
+dessert,Chocolate Ice Cream ,2.99
+dessert,Double Chocolate Brownie,8.99
+dessert,Coconut Cake ,10.99
+dessert,Peppermint Cupcake,13.99
+dessert,Mini Cupcakes,2.99
+drinks,water,0.00
+drinks,coke,1.99
+drinks,pepsi,1.99
+drinks,milk,1.49
+drinks,tea,1.99
+drinks,coffee,1.99
+drinks,apple juice,1.99
+drinks,orange juice,1.49
+drinks,green juice,1.99
+drinks,tomato juice,1.99
+drinks,red wine,1.99
+drinks,white wine,1.49

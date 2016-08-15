@@ -1,0 +1,6 @@
+#EmployeeName,Position(character can be w,m,c,h)
+Emma Roussos,w
+Athira Haridas,m
+Annie Antony,c
+Christina Parry,h
+Christina Segerholm,w 
